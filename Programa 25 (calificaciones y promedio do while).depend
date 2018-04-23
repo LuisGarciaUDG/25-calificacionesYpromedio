@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425426498 source:c:\users\luis\dropbox\inco\programación\programa 25 (calificaciones y promedio do while)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
